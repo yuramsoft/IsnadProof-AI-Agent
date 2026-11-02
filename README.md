@@ -1,10 +1,6 @@
 # IsnadProof-AI-Agent
 An AI agent that helps displaced people rebuild proof of lost degrees, marriage contracts and birth certificates, then gets that proof recognised.
 
-# IsnadProof · إسناد
-
-**An AI agent that helps people rebuild proof of the documents they lost, so they can be recognised, hired and reunited.**
-
 *Isnad* (إسناد) is the classical Arabic method of proving a report true through a documented chain of reliable, independent transmitters. *IsnadProof* applies that discipline to lost documents: each fact is proved by a chain of independent sources. When a war, a flight or a disaster destroys a person's degree, marriage contract or birth certificate, the usual recognition chain breaks: there is no original to attest, and sometimes no office left to ask. IsnadProof collects the fragments the person still has, corroborates them across independent sources, finds the recognition route that is still open, and follows it through to a decision.
 
 > **Status: working prototype.** The full dossier workflow runs end to end with 19 passing tests. It uses fictional demo data (including a fictional country, "XC") and, by default, an offline rule-based model stand-in so anyone can run it without a GPU. The connection to UAE open-weight models (Falcon-H1 Arabic, Jais 2) is implemented behind a switch. Pilot figures in this README are **targets to test, not results**.
@@ -226,10 +222,10 @@ isnadproof/
 
 | Role | Name |
 | --- | --- |
-| Lead: product & engineering | [Name] |
-| Engineer | [Name] |
-| ML / Arabic-language engineer | [Name] |
-| Caseworker partnerships | [Name] |
+| Lead: product & engineering | - |
+| Engineer | - |
+| ML / Arabic-language engineer | - |
+| Caseworker partnerships | - |
 
 ## Licence
 
